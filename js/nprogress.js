@@ -25,7 +25,7 @@
     speed: 1000,
     trickle: true,
     trickleRate: 0.02,
-    trickleSpeed: 1000,
+    trickleSpeed: 900,
     showSpinner: true,
     template: '<div class="bar" role="bar"><div class="peg"></div></div><div class="spinner" role="spinner"><div class="spinner-icon"></div></div>'
   };
